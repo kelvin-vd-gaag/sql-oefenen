@@ -1,0 +1,5 @@
+# Negeer .idea-map gegenereerd door PhpStorm
+.idea/
+
+# Negeer bestanden die beginnen met een punt (bijv. .DS_Store op macOS)
+.*.swp
